@@ -18,7 +18,7 @@ Note that these python cells run against a python server, different than the web
 
 ### Method 1: Github codespaces
 
-The first and easiest way to run the notebook in this assignment is to run it in [Github Codespaces](https://github.com/features/codespaces), a cloud-based development environment that runs in a browser.  We have configured this assignment to include a codespaces editor, and you should be able to open it up just by clicking on the codespaces button in your README when viewing your created repository on github.com.
+The first and easiest way to run the notebook in this assignment is to run it in [Github Codespaces](https://github.com/features/codespaces), a cloud-based development environment that runs in a browser.  We have configured this assignment to include a codespaces editor, and you should be able to open it up just by clicking on the codespaces button in your README when viewing your created repository on github.com.  If that doesn't work, you can also open a codespace by clicking the green Code button, where you usually go to find your github `.git` URL, and click under Codespaces, and create a new Codespace for that repository.
 
 There are 2 important things to note when using github codespaces.
 
