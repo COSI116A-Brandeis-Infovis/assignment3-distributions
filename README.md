@@ -2,9 +2,7 @@
 
 In this homework, you will be using four different methods for generating a visualization of the same data.  The goal of this assignment is for you to be exposed to a variety of visualization libraries and understand the strengths and weaknesses between them.  
 
-In part 1, you will use multiple python libraries to try to recreate the same chart type, with some small modifications.  You will be asked to read the documentation for the libraries we are using, and you will be graded based on your ability to find the right configuration options to complete various modifications of the chart.
-
-In part 2, you will use `vega-lite` to generate the same chart but on a website.
+You will use multiple python libraries to try to recreate the same chart type, with some small modifications.  You will be asked to read the documentation for the libraries we are using, and you will be graded based on your ability to find the right configuration options to complete various modifications of the chart.
 
 ## Dataset: Video Game Sales
 
