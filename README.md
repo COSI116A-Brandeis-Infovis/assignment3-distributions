@@ -22,7 +22,11 @@ The first and easiest way to run the notebook in this assignment is to run it in
 
 There are 2 important things to note when using github codespaces.
 
-1. When you run the python notebook for the first time, you will have to select what jupyter server to run against.  You want to select the local version of python we have running in the codespaces.  See the screenshot below.  **dylan - put screenshot of selecting python here**
+1. When you run the python notebook for the first time, you will have to select what jupyter server to run against.  You want to select the local version of python we have running in the codespaces.  See the screenshot below.
+
+<img src=".images/selecting_python.png" width="600" />
+
+
 2. When you are using codespaces, your code won't actually get pushed to us automatically.  Like with your earlier HW 1, you will have to create a git commit and push it.  From codespaces, you do this in the following way. 
 
 <details><summary>Expand to see instructions</summary>
