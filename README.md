@@ -12,7 +12,7 @@ The dataset was gathered from a [kaggle.com competition](https://www.kaggle.com/
 
 ## Running the notebook
 
-Development for part 1 of this assignment is done inside of a [Jupyter Notebook](https://jupyter.org/), a common tool for iterative data science work.  There are several ways that you can run this notebook and develop your homework.  Notebooks like this are composed of a sequence of "cells", with each cell containing some snippets of code or some descriptive, README-like text.  When you run a cell in your notebook, it saves the result of that cell in memory.  To run a cell, you can either click the little "play" button on the top right corner of a cell, or you can use Shift+Enter to run the current cell.
+Development for this assignment is done inside of a [Jupyter Notebook](https://jupyter.org/), a common tool for iterative data science work.  There are several ways that you can run this notebook and develop your homework.  Notebooks like this are composed of a sequence of "cells", with each cell containing some snippets of code or some descriptive, README-like text.  When you run a cell in your notebook, it saves the result of that cell in memory.  To run a cell, you can either click the little "play" button on the top right corner of a cell, or you can use Shift+Enter to run the current cell.
 
 Note that these python cells run against a python server, different than the web server we have been using in class.  There are two methods you can use to run your notebook server.
 
