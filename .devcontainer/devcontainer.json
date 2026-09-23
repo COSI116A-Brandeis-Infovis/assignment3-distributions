@@ -1,20 +1,23 @@
 {
     "image": "mcr.microsoft.com/devcontainers/universal",
     "hostRequirements": {
-      "cpus": 4
+        "cpus": 2
     },
-    "waitFor": "onCreateCommand",
+    "waitFor": "updateContentCommand",
     "updateContentCommand": "python3 -m pip install -r requirements.txt",
     "postCreateCommand": "",
     "customizations": {
-      "codespaces": {
-        "openFiles": []
-      },
-      "vscode": {
-        "extensions": [
-          "ms-toolsai.jupyter",
-          "ms-python.python"
-        ]
-      }
+        "codespaces": {
+            "openFiles": [
+                "README.md",
+                "vg_sales_exploration.ipynb"
+            ]
+        },
+        "vscode": {
+            "extensions": [
+                "ms-toolsai.jupyter",
+                "ms-python.python"
+            ]
+        }
     }
-  }
+}
