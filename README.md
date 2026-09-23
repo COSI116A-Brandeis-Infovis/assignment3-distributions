@@ -10,15 +10,15 @@ You will submit a link to your repository and a PDF containing notes and screens
 
 Before you do anything else, make your own private copy of this repository inside the course organization. **Don't fork it and don't work directly in this repository.** You'll do all of your work, and we'll grade it, in your own copy.
 
-1. **Join the course organization (one time only).** You should have received an email invitation to join the **`ORG_NAME`** organization on GitHub. Accept it, or go to `https://github.com/orgs/ORG_NAME/invitation` while signed in. Invitations expire after 7 days, so ask a TA for a new one if yours has expired. You can't do the next steps until you've joined.
+1. **Join the course organization (one time only).** You should have received an email invitation to join the **`COSI116A-Brandeis-Infovis`** organization on GitHub. Accept it, or go to `https://github.com/orgs/COSI116A-Brandeis-Infovis/invitation` while signed in. Invitations expire after 7 days, so ask our TA Derrick for a new one if yours has expired. You can't do the next steps until you've joined.
 2. At the top of this repository's page, click the green **Use this template** button and choose **Create a new repository**.
 3. Fill in the form:
-   - **Owner:** choose **`ORG_NAME`**, *not* your personal account. ⚠️ If the organization isn't in the list, you haven't accepted the invitation from step 1 yet.
+   - **Owner:** choose **`COSI116A-Brandeis-Infovis`**, *not* your personal account. ⚠️ If the organization isn't in the list, you haven't accepted the invitation from step 1 yet.
    - **Repository name:** `assignment3-distributions-YOUR_GITHUB_USERNAME` (for example, `assignment3-distributions-jane-doe`).
    - **Visibility:** choose **Private**. ⚠️ This keeps your work hidden from other students.
    - Leave **Include all branches** unchecked.
 4. Click **Create repository**.
-5. Check that your new repository's URL looks like `https://github.com/ORG_NAME/assignment3-distributions-YOUR_GITHUB_USERNAME` and that it shows a **Private** label next to its name.
+5. Check that your new repository's URL looks like `https://github.com/COSI116A-Brandeis-Infovis/assignment3-distributions-YOUR_GITHUB_USERNAME` and that it shows a **Private** label next to its name.
 
 That's the repository you'll work in for the rest of the assignment, and it's the link you'll submit on Moodle. Course staff can see it automatically because it's in the course organization, so you don't need to add anyone as a collaborator. For more detail, see the course's GitHub guide on Moodle.
 
