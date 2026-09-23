@@ -1,4 +1,4 @@
-# HW3 Part 1: Trying out Libraries
+# HW3: Distributions, Four Ways
 
 In this homework, you will be using four different methods for generating a visualization of the same data: one point-and-click tool (Tableau) and three Python libraries (`matplotlib`, `seaborn`, and `altair`).  The goal of this assignment is for you to be exposed to a variety of visualization libraries and understand the strengths and weaknesses between them.  
 
